@@ -1,5 +1,6 @@
 # passtray
 
+[![Build Status](https://travis-ci.org/marcusolsson/passtray.svg?branch=master)](https://travis-ci.org/marcusolsson/passtray)
 [![GoDoc](https://img.shields.io/badge/godoc-reference-blue.svg?style=flat)](https://godoc.org/github.com/marcusolsson/passtray)
 [![License MIT](https://img.shields.io/badge/license-MIT-lightgrey.svg?style=flat)](LICENSE)
 
