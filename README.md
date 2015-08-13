@@ -10,6 +10,8 @@ Select a password through the menu to make it available as a clipboard selection
 
 __Note:__ Currently only works when you have the GPG agent configured. 
 
+![Screenshot](screenshot.png)
+
 ## Installation
 
 ```bash
